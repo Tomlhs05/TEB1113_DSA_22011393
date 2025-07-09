@@ -1,6 +1,6 @@
 /*
 id: 22011393
-namae: Loo Hong Sheng
+name: Loo Hong Sheng
 group: g1
 lab: L3
 */
